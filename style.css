@@ -1,0 +1,30 @@
+header {
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+font-size: 2em;
+background-image: url("https://www.nationalparks.org/sites/default/files/styles/wide_2x/public/newrivergorge_shutterstock.jpg");
+
+}
+aside {
+    width: 35vw;
+
+}
+body {
+background-color: #494949; 
+color: #f4c20c;
+}
+footer {
+    text-align: center;
+}
+#flexContainer {
+    width: 30vw;
+    padding: 4rem;
+    background-color: rgba(73, 73, 73, 0.8);
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
